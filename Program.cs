@@ -200,7 +200,7 @@ namespace GemHunters
             }
             else
             {
-                Console.WriteLine("Invalid move. Player loses a turn now.");
+                Console.WriteLine("Invalid move . Player loses a turn now.");
             }
         }
 
