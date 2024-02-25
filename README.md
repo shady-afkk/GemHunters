@@ -1,4 +1,4 @@
-# Gem Hunters link THE LINK OF VIDEO THAT EXPLAINS WHAT THE CODE IS 
+# Gem Hunters link THE LINK OF VIDEO THAT EXPLAINS WHAT THE CODE IS https://1drv.ms/v/s!AqxOzW0DZdfMgdVPBQEzlyQjXuAchQ?e=u3PwIb
 
 Gem Hunters is a simple console-based game where two players compete to collect gems on a grid-based board while avoiding obstacles. Each player takes turns moving their character around the board, trying to collect as many gems as possible within a limited number of turns.
 
